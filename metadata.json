@@ -1,0 +1,5 @@
+{
+  "name": "DocRefine AI",
+  "description": "An intelligent document formatter that analyzes Word files, suggests structural improvements (tables, flowcharts), and ensures professional formatting for PDF export.",
+  "requestFramePermissions": []
+}
